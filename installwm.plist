@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://verifypc-public.stor.sinaapp.com/Payload.ipa</string>
+					<string>https://github.com/gjzw/forhello/blob/master/tag1.0.0.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,19 +19,19 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://verifypc-public.stor.sinaapp.com/xfsq.png</string>
+					<string>http://verifypc-public.stor.sinaapp.com/jyzb.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.eastmoney.wec</string>
+				<string>com.eastmoney.emlive</string>
 				<key>bundle-version</key>
-				<string>6.3.19</string>
+				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>微信</string>
+				<string>海豚直播</string>
 			</dict>
 		</dict>
 	</array>
