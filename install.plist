@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://verifypc-public.stor.sinaapp.com/Payload.ipa</string>
+					<string>https://raw.githubusercontent.com/gjzw/forhello/master/lgf.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
