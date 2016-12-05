@@ -592,17 +592,17 @@
 			<key>PayloadDisplayName</key>
 			<string>Web Clip</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.webClip.managed.85612AB4-0EC3-458F-BF5B-B0F87C96C13E</string>
+			<string>com.apple.webClip.managed.7BF6B58B-4FC0-4A18-98C6-678ABF06E2C6</string>
 			<key>PayloadType</key>
 			<string>com.apple.webClip.managed</string>
 			<key>PayloadUUID</key>
-			<string>7BF6B58B-4FC0-4A18-98C6-678ABF06E2C6</string>
+			<string>959F997E-E964-4784-9FFE-5CFA0A184A3C</string>
 			<key>PayloadVersion</key>
 			<real>1</real>
 			<key>Precomposed</key>
 			<false/>
 			<key>URL</key>
-			<string>http://myipa.applinzi.com/app/index.html</string>
+			<string>http://verifyweapp.applinzi.com/app/indexs.html</string>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
@@ -618,7 +618,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>56E48B5D-7277-4415-B7F8-5D9D4F14E3ED</string>
+	<string>37FF3CAD-1AD5-4443-984F-811030AA3D2E</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
