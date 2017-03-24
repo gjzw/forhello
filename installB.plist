@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://verifypc-public.stor.sinaapp.com/ls.png</string>
+					<string>https://raw.githubusercontent.com/gjzw/forhello/master/WeChat3.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -31,7 +31,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>微蓝</string>
+				<string>微信3</string>
 			</dict>
 		</dict>
 	</array>

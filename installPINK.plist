@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://verifypc-public.stor.sinaapp.com/fs.png</string>
+					<string>https://raw.githubusercontent.com/gjzw/forhello/master/WChat1.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -31,7 +31,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>粉色</string>
+				<string>微信</string>
 			</dict>
 		</dict>
 	</array>
